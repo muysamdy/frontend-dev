@@ -1,0 +1,3 @@
+[submodule "time-tracker"]
+	path = time-tracker
+	url = git@github.com:muysamdy/time_tracker.git
