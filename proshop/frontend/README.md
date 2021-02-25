@@ -71,4 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # use React Bootstrap
 
-f
+fontend => react-bootstarp
+fontent => react-router-dom
+=> react-router-bootstrap
