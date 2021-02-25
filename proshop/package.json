@@ -1,0 +1,11 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "index.js",
+  "author": "samdy",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
